@@ -1,0 +1,7 @@
+id = "zed-dracula-blur"
+name = "Dracula Blur Themes"
+version = "0.1.0"
+schema_version = 1
+authors = ["ZeinosNSB <zeinosnsb@gmail.com>"]
+description = "A Dracula-inspired theme collection for Zed with subtle blur aesthetics and refined contrast."
+repository = "https://github.com/ZeinosNSB/zed-dracula-blur"
