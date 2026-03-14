@@ -2,6 +2,17 @@
 
 A Dracula-inspired theme for [Zed](https://zed.dev) with blur aesthetics and refined contrast.
 
+## Previews
+
+### Dracula Blur
+![Dracula Blur Preview](assets/dracula-blur.png)
+
+### Dracula Blur [Light]
+![Dracula Blur Light Preview](assets/dracula-blur-light.png)
+
+### Dracula Blur [Heavy]
+![Dracula Blur Heavy Preview](assets/dracula-blur-heavy.png)
+
 ## Variants
 
 | Variant                | Opacity | Best For              |
