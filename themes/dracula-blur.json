@@ -352,7 +352,7 @@
             "font_style": "italic"
           },
           "variable": {
-            "color": "#caa9fa"
+            "color": "#f8f8f2"
           },
           "variable.member": {
             "color": "#8be9fd"
@@ -748,7 +748,7 @@
             "font_style": "italic"
           },
           "variable": {
-            "color": "#caa9fa"
+            "color": "#f8f8f2"
           },
           "variable.member": {
             "color": "#8be9fd"
@@ -1144,7 +1144,7 @@
             "font_style": "italic"
           },
           "variable": {
-            "color": "#caa9fa"
+            "color": "#f8f8f2"
           },
           "variable.member": {
             "color": "#8be9fd"
